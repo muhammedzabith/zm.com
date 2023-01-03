@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/m2.jpg);
+   background-size: cover;
+   align-items: center;
+}
+
+h1{
+    text-align: center;
+    text-size-adjust: 25px;
+    font-style: italic;
+ font-size-adjust: initial;
+}
+
+main{
+
+}
